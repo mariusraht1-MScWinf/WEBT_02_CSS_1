@@ -1,0 +1,32 @@
+#warnings {
+  color: red;
+}
+
+li span {
+  font-weight: bold;
+}
+
+.important {
+  font-weight: bold;
+}
+
+#firstdiv [title="Simpsons"] {
+  color: yellow;
+  background-color: black;
+}
+
+#seconddiv [title="BigBangTheory"] {
+  font-size: larger;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.extern:hover {
+  color: green;
+}
